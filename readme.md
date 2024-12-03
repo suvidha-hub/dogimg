@@ -1,2 +1,2 @@
 # dog images
-you can generate dog images here
+you can generate dog images here.
